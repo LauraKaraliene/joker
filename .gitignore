@@ -1,2 +1,6 @@
 
-/node_modules
+# Mac OS System file
+.DS_Store
+
+# npm
+node_modules/

@@ -1,0 +1,28 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "Application for learning purposes that tells jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LauraKaraliene/joker.git"
+  },
+  "keywords": [
+    "testing",
+    "learning",
+    "environment"
+  ],
+  "author": "laura.karaliene@stud.noroff.no",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
