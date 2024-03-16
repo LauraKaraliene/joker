@@ -20,5 +20,8 @@
   "license": "MIT",
   "dependencies": {
     "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+  "prettier": "^3.2.5"
   }
 }
