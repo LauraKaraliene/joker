@@ -17,5 +17,8 @@
     "environment"
   ],
   "author": "laura.karaliene@stud.noroff.no",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
