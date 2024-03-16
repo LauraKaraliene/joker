@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Application for learning purposes that tells jokes",
   "type": "module",
   "main": "src/index.js",
@@ -23,6 +23,6 @@
     "one-liner-joke": "^1.2.2"
   },
   "devDependencies": {
-  "prettier": "^3.2.5"
+    "prettier": "^3.2.5"
   }
 }
