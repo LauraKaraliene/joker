@@ -1,11 +1,11 @@
 {
   "name": "joker-laura-karaliene",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Application for learning purposes that tells jokes",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/js/joker.js",
+    "test": "node src/js/joker.test.js",
     "format": "prettier -w src/js/joker.js"
   },
   "repository": {
