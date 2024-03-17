@@ -1,5 +1,7 @@
 import { dadJoke } from './joker.js';
 
+console.log('Intentional Error');
+
 export async function testDadJoke() {
   const joke = await dadJoke();
   const testPasses = Boolean(joke);
